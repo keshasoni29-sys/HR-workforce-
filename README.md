@@ -38,4 +38,4 @@ As a Master of Mathematics, I applied **inferential statistics** to ensure that 
 
 ---
 **Prepared by:** Kesha Soni
-[LinkedIn](www.linkedin.com/in/kesha-soni-a75aa4239) | [Portfolio](YOUR_PORTFOLIO_LINK_HERE)
+[LinkedIn](https://www.linkedin.com/in/kesha-soni-a75aa4239/) | [Portfolio](YOUR_PORTFOLIO_LINK_HERE)
