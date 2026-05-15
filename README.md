@@ -15,6 +15,7 @@ This project is a deep-dive analysis of a workforce dataset containing over **18
 *(Note: Screenshots are taken from the final Power BI report)*
 ![Dashboard Preview](page1.jpg)
 ![Dashboard Preview](page2.jpg)
+https://github.com/keshasoni29-sys/HR-workforce-/blob/main/HR%20Workforce%20Analytics%20Dashboard%20Final.pptx
 
 ### 1. Workforce Overview
 - **Total Staff:** 18.3K
