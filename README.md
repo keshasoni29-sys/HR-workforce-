@@ -19,7 +19,7 @@ https://github.com/keshasoni29-sys/HR-workforce-/blob/main/HR%20Workforce%20Anal
 
 ### 1. Workforce Overview
 - **Total Staff:** 18.3K
-- **Average Tenure:** 7.0 Years
+- **Average Tenure:** 8.0 Years
 - **Primary Hub:** Ohio (HQ)
 
 ### 2. Departmental Distribution
@@ -30,7 +30,7 @@ The data reveals that **Engineering** is the largest vertical with over 6,300 em
 - **Racial Profile:** White (5.2K) and Asian (3.0K) represent the largest groups, with a clear opportunity to expand Hispanic and Native American recruitment.
 
 ## 💡 Strategic Recommendations
-- **Retention:** With 7 years being the average tenure, I recommend a "Stay Interview" program for employees in their 5th year to prevent attrition.
+- **Retention:** With 8 years being the average tenure, I recommend a "Stay Interview" program for employees in their 5th year to prevent attrition.
 - **Scaling:** Based on the hiring trajectory, recruitment should focus on the Remote model to tap into global talent.
 
 ## 🎓 The Mathematical Edge
